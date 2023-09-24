@@ -116,7 +116,7 @@ def InsertTables():
 
 #### > Marco Antonio
 
-#### > Jean
+#### > Jean Dias
 
 ## Ferramentas
 
